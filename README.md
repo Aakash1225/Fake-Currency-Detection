@@ -1,4 +1,4 @@
-<h1 align="center">Fake Currency Detection System</h1>
+<h1 align="center">Fake Currency Detection</h1>
 
 <div align= "center"><img src="https://images.thequint.com/thequint%2F2016-11%2F71274674-012f-4a31-b1c8-a3ca4cbf4387%2Fnew-500-note-currency.jpg?rect=0%2C0%2C1400%2C788" width="350" height="187"/>
   <h4>A currency detection system which classifies currency as real or counterfiet using image processing.</h4>
