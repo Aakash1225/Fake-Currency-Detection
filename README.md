@@ -24,8 +24,7 @@ Recognition of fake Indian currency is very important in major domains like bank
 - [Dart](https://dart.dev/)
 
 ## :bulb: Working
--> Just run the Main.ipynb file and that will create the final.h5 model and then you are good to go....
--> Make sure final.h5 will take time to train the model and then you are Ready with this project
+-> Just run the Main.ipynb file and that will create the final.h5 model and make sure final.h5 will take time to train the model and then you are Ready with this project
 
 The program will function in the following way:
 1. The model is trained on multiple images of fake and real Indian currency.
